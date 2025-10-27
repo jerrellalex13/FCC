@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scrambled Eggs</title>
+</head>
+<body>
+  <h1>Scrambled Eggs</h1>
+
+  <p>Scrambled eggs are a classic breakfast staple—simple, satisfying, and endlessly customizable. This recipe gives you soft, fluffy eggs in minutes.</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>3 large eggs</li>
+    <li>2 tablespoons milk</li>
+    <li>Salt to taste</li>
+    <li>1 tablespoon butter</li>
+    <li>Freshly ground black pepper</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Crack the eggs into a bowl and add milk, salt, and pepper.</li>
+    <li>Whisk until the mixture is smooth and slightly frothy.</li>
+    <li>Heat butter in a nonstick pan over medium-low heat.</li>
+    <li>Pour in the egg mixture and let it sit for a few seconds.</li>
+    <li>Gently stir with a spatula until curds form and eggs are just set.</li>
+  </ol>
+
+  <img src="https://www.example.com/curriculum-assets/images/recipe.jpg" alt="Fluffy scrambled eggs served on a plate with toast">
+</body>
+</html>
