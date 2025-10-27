@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="Explore exciting destinations, group travels, and private tours with our travel agency.">
+  </head>
+  <body>
+    <h1>Welcome to Our Travel Destinations</h1>
+    <p>We offer amazing travel opportunities around the world for adventurers and explorers alike.</p>
+
+    <h2>Packages</h2>
+    <p>Choose from our wide selection of packages designed to suit your travel needs.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="The Colosseum in Rome">
+      </a>
+      <figcaption>Rome, Italy</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Beautiful snowy Alps mountains">
+      </a>
+      <figcaption>Swiss Alps</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Ocean waves under a sunset sky">
+      </a>
+      <figcaption>Tropical Beaches</figcaption>
+    </figure>
+  </body>
+</html>
