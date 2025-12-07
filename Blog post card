@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Blog Post Card</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+
+    <div class="blog-post-card">
+
+      <img class="post-img"
+      src="https://robertsspaceindustries.com/media/j0t9i4pdm5b93r/source/Constellation-Andromeda.png"
+      alt="RSI Constellation Andromeda">
+
+      <div class="post-content">
+
+        <h2 class="post-title">My Favorite Ship: The Andromeda</h2>
+
+        <p class="post-excerpt">
+          The Constellation Andromeda is my favorite ship in Star Citizen.
+          It is strong, fun to fly and works well for combat and missions.
+        </p>
+
+        <a class="read-more"
+        href="https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Andromeda"
+        target="_blank">Read More</a>
+
+      </div>
+
+    </div>
+
+  </body>
+</html>
