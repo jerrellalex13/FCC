@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Stylized To-Do List</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>My Day</h1>
+
+    <ul class="todo-list">
+      <!-- 1. Walk my dog -->
+      <li>
+        <input type="checkbox" id="task-dog" />
+        <label for="task-dog">Walk my dog</label>
+
+        <ul class="sub-item">
+          <li>
+            <a
+              class="sub-item-link"
+              href="https://www.google.com/maps"
+              target="_blank"
+            >
+              Find a walking route
+            </a>
+          </li>
+        </ul>
+      </li>
+
+      <!-- 2. Go to the gym -->
+      <li>
+        <input type="checkbox" id="task-gym" />
+        <label for="task-gym">Go to the gym</label>
+
+        <ul class="sub-item">
+          <li>
+            <a
+              class="sub-item-link"
+              href="https://www.youtube.com/results?search_query=gym+workout"
+              target="_blank"
+            >
+              Pick a workout
+            </a>
+          </li>
+        </ul>
+      </li>
+
+      <!-- 3. Do some FCC exercises -->
+      <li>
+        <input type="checkbox" id="task-fcc" />
+        <label for="task-fcc">Do some FCC exercises</label>
+
+        <ul class="sub-item">
+          <li>
+            <a
+              class="sub-item-link"
+              href="https://www.freecodecamp.org/learn"
+              target="_blank"
+            >
+              Open FCC curriculum
+            </a>
+          </li>
+        </ul>
+      </li>
+
+      <!-- 4. Clean my room -->
+      <li>
+        <input type="checkbox" id="task-room" />
+        <label for="task-room">Clean my room</label>
+
+        <ul class="sub-item">
+          <li>
+            <a
+              class="sub-item-link"
+              href="https://www.youtube.com/results?search_query=clean+with+me"
+              target="_blank"
+            >
+              Turn on cleaning music
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
